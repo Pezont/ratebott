@@ -1,6 +1,2 @@
-bs4
-time
-requests
 telebot
-BeautifulSoup
-TeleBot
+beautifulsoup4
