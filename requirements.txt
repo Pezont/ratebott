@@ -1,4 +1,2 @@
 telebot
 beautifulsoup4
-requests
-time
